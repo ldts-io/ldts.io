@@ -7,6 +7,6 @@ header:
 ---
 
 
-We are a BC, Canada based software company, and we do custom development for multiple private and government clients.
+We are a British Columbia, Canada based software company, and we do custom development for multiple private and government clients.
 
-Please contact us at info@ldt.io if you are interested in our services or any other information regarding the company or the team.
+Please contact us at <a href="mailto:info@ldts.io">info@ltds.io</a> if you are interested in our services or if you would like any other information regarding the company or the team.
