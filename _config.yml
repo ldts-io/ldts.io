@@ -59,15 +59,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "LDTS Ventures Inc."
-  avatar : "/assets/images/LDTS_logo.png"
-  bio    : "LDTS official website."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ldts-io"
-
 footer:
   links:
     - label: "GitHub"
