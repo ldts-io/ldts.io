@@ -8,7 +8,7 @@ header:
 
 These are projects the LDTS team has worked on so far.
 
-<b>MDS: Mines Digital Services</b>
+<h2>MDS: Mines Digital Services</h2>
 
 We configured the Elastic Stack for MDS for the Ministry of Mines in British Columbia.
 
@@ -36,10 +36,9 @@ The following are screenshots of some of the many visualizations and dashboards 
 <img src="/assets/images/MDS_screenshot.png">
 
 
-<b>LDTS CRM</b>
+<h2>LDTS CRM</h2>
 
 Whatever your company’s invoicing needs, whether its B2B, B2C, monthly subscriptions, recurring  invoicing or adhoc, a robust and streamlined invoicing processing strategy is a key part of a successful company strategy. LDTS CRM allows you to maintain a centrally stored, consistent, and easily searchable repository for all of your invoices from across all business areas, and this is essential for book keeping and auditing. 
-
 
 <b>More details</b>
 
