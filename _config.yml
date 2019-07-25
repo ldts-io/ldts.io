@@ -74,6 +74,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      # _portfolio
+
 
 category_archive:
   type: liquid
