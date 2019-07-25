@@ -8,11 +8,13 @@ header:
 
 These are projects the LDTS team has worked on so far.
 
-MDS 
+<b>MDS</b>
 
 We configured the Elastic Stack for the Ministry of Mines in British Columbia.
 
-<img src="/assets/images/MDS_reference_Screenshot.png">
+We provided multiple dashboards, and provided end to end functional and technical consulting services.
 
 <img src="/assets/images/MDS_reference_Screenshot.png">
+
+<img src="/assets/images/MDS_screenshot.png">
 
