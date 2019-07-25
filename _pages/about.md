@@ -41,5 +41,9 @@ We have made a concious decision to reduce our carbon footprint by working remot
 
 We believe our empathy for others, especially those that are marginalized and vulnerable, is a competitive differentiator and that we can build a better community with the wellbeing of everyone, including equal opportunity for all, is always taken into account in our day to day operations and in our important, strategic company decisions.
 
+Thank you. 
+
+-The team
+
 
 
