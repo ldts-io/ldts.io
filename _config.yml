@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: LDTS.IO
+title: ltds.io
+logo: "/assets/images/LDTS_logo.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is the official webiste of LDTS.io. 
@@ -35,6 +36,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
