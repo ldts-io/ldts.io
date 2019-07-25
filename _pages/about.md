@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 header:
   image: /assets/images/ldts_background.jpeg
+
   image_description: "A beautiful day on Sandcut beach"
 
 ---
